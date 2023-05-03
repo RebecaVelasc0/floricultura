@@ -3,6 +3,6 @@
 <h3>Tecnologias utilizadas</h3>
 <p>HTML5</p>
 <p>CSS3</p>
-<img src="https://static.portaldaindustria.com.br/media/uploads/logotipos/logo-senai.png" alt="imagem senai" width="800">
+<img  align="center" src="https://static.portaldaindustria.com.br/media/uploads/logotipos/logo-senai.png" alt="imagem senai" width="800">
 
 
