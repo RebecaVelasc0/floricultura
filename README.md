@@ -1,4 +1,5 @@
-![flor-de-lotus](https://user-images.githubusercontent.com/112645202/236074577-2c7b74a7-0d1c-4e23-89ab-d7586a18222b.png) # Floricultura 
+ # Floricultura 
+![flor-de-lotus](https://user-images.githubusercontent.com/112645202/236074577-2c7b74a7-0d1c-4e23-89ab-d7586a18222b.png)
 ## Este site foi desenvolvido para fins didáticos para o curso de Informática para Internet no SENAI. A ideia o site é ser a representação de uma floricultura online, com um catálogo de seus produtos.</p>
 ### Tecnologias utilizadas
 ![html-5 (1)](https://user-images.githubusercontent.com/112645202/236074328-13116229-bb95-4f17-bb7a-444d76cc8161.png)
