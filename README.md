@@ -5,6 +5,8 @@
 <p>HTML5</p>
 <img src="https://simpleicons.org/icons/css3.svg" alt="imagem css" width="64px" heigth="64px">
 <p>CSS3</p>
+<img src="https://simpleicons.org/icons/bootstrap.svg" alt="imagem css" width="64px" heigth="64px">
 <img src="https://static.portaldaindustria.com.br/media/uploads/logotipos/logo-senai.png" alt="imagem senai" width="800px" >
+
 
 
